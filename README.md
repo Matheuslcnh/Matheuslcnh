@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheuslcnh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuslcnh&layout=compact&langs_count=16&theme=radical"/>
 </div>
-<h2>Languages ​​I'm studying</h2>
+<h2>Programming languages ​​I'm studying</h2>
 <div style="display: inline-block"><br>
   <img align="center" alt="Matheus-py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="Matheus-php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />

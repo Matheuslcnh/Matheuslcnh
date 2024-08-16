@@ -37,8 +37,8 @@
 <h2>About me</h2>
 ✅ I’m Brazilian, I’m 17 years old, studying Systems Development Technician. I’ve been in the programming field for less than a year. I found myself in this area, and I intend to do a degree in the same area.<br>
 <p></p>
--- 💻<strong>Studying: Systems Development Technician</strong><br>
--- 😊<strong>Unemployed at the moment</strong>
+<li>💻<strong>Studying: Systems Development Technician</strong><br></li>
+<li>😊<strong>Unemployed at the moment</strong></li>
 
 ##
 <h3>Acesse meus Trabalhos</h3>

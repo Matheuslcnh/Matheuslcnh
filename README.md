@@ -35,9 +35,15 @@
 
 ##
 <h2>About me</h2>
-✅ I’m Brazilian, I’m 17 years old, studying Systems Development Technician. I’ve been in the programming field for less than a year. I found myself in this area, and I intend to do a degree in the same area.<br>
+✅ I hold a technical degree in Systems Development, with a focus on web development and experience in both Front-end and Back-end projects. Throughout my training, I developed a practical and structured approach to building web applications, aiming for functional, interactive solutions with a strong emphasis on user experience.
+
+I am a quick learner, constantly seeking to improve through personal projects, additional courses, and participation in challenges within the tech field. My goal is to pursue a degree in Software Engineering, deepen my knowledge, and contribute meaningfully to the creation of innovative technological solutions that have a positive impact.
+
+I believe technology has the power to transform businesses, enhance processes, and improve people's lives. That's why I look for opportunities where I can grow as a professional and collaborate with innovative teams that share the same vision.
+
+<br>
 <p></p>
-<li>💻<strong>Studying: Systems Development Technician</strong><br></li>
+<li>💻<strong>Systems Development Technician</strong><br></li>
 <li>😊<strong>Unemployed at the moment</strong></li>
 
 ##
